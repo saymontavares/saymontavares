@@ -3,7 +3,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=saymontavares&count_private=true&show_icons=true&theme=react&include_all_commits=true&show_owner=true" />
     </a>
     <a href="https://github.com/saymontavares">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymontavares&theme=react&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymontavares&theme=react&layout=compact&card_width=250" />
     </a>
 </div>
 
@@ -44,4 +44,4 @@ Eu realmente não sei como você chegou aqui 😁, mas vou tentar mostrar um pou
 
 <hr>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saymontavares&repo=react-calculator&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saymontavares&repo=react-calculator&theme=react)](https://github.com/saymontavares/react-calculator)
