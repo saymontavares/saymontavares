@@ -1,14 +1,11 @@
-<!-- <div>
+<div>
     <a href="https://github.com/saymontavares">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=saymontavares&count_private=true&show_icons=true&theme=algolia" />
     </a>
     <a href="https://github.com/saymontavares">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymontavares&theme=algolia" />
     </a>
-</div> -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saymontavares&count_private=true&show_icons=true&theme=algolia)](https://github.com/saymontavares)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saymontavares&theme=algolia&layout=compact)](https://github.com/saymontavares)
+</div>
 
 <hr>
 
