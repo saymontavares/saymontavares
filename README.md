@@ -39,10 +39,9 @@ Eu realmente não sei como você chegou aqui 😁, mas vou tentar mostrar um pou
 * **Nome**: Saymon Tavares
 * **Idade**: 24
 * **Living in**: Santa Catarina, Brazil
-* **Stack**: PHP - Laravel - Bootstrap - SQL - AWS - CI - Vue - Angular
 * **Universidade**: Universidade do Extremo Sul Catarinense (UNESC) - Ciência da Computação
 
-## Skills
+## Stacks
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /> </a>
