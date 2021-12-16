@@ -1,3 +1,17 @@
+<!-- <div>
+    <a href="https://github.com/saymontavares">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=saymontavares&count_private=true&show_icons=true&theme=algolia" />
+    </a>
+    <a href="https://github.com/saymontavares">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymontavares&theme=algolia" />
+    </a>
+</div> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saymontavares&count_private=true&show_icons=true&theme=algolia)](https://github.com/saymontavares)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saymontavares&theme=algolia&layout=compact)](https://github.com/saymontavares)
+
+<hr>
+
 <div>
     <a target='_blank' href="https://dev.to/saymon">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
