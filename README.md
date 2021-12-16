@@ -3,7 +3,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=saymontavares&count_private=true&show_icons=true&theme=algolia" />
     </a>
     <a href="https://github.com/saymontavares">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymontavares&theme=algolia" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymontavares&theme=algolia&layout=compact" />
     </a>
 </div>
 
