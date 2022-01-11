@@ -50,5 +50,4 @@ Eu realmente não sei como você chegou aqui 😁, mas vou tentar mostrar um pou
 <hr>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saymontavares&repo=react-calculator&theme=react)](https://github.com/saymontavares/react-calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saymontavares&repo=now-movies&theme=react)](https://github.com/saymontavares/now-movies)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saymontavares&repo=dom-to-image-mpdf&theme=react)](https://github.com/saymontavares/dom-to-image-mpdf)
