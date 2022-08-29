@@ -1,3 +1,23 @@
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,
+</h2>
+
+Eu realmente não sei como você chegou aqui 😁, mas vou tentar mostrar um pouco sobre mim para você.
+
+## Informações detalhadas
+
+* **Nome**: Saymon Tavares
+* **Idade**: 24
+* **Living in**: Santa Catarina, Brazil
+* **Universidade**: Universidade do Extremo Sul Catarinense (UNESC) - Ciência da Computação
+
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/saymon)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sayntr/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saymon-tavares/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/saytavares_)
+[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](#)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
+
 <div>
     <a href="https://github.com/saymontavares">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=saymontavares&count_private=true&show_icons=true&theme=react&include_all_commits=true&show_owner=true&line_height=20" />
@@ -9,25 +29,8 @@
 
 <hr>
 
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/saymon)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sayntr/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saymon-tavares/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/saytavares_)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](#)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
+<h2>🥇 Specialised in:</h2>
 
-## Hello there
-
-Eu realmente não sei como você chegou aqui 😁, mas vou tentar mostrar um pouco sobre mim para você.
-
-## Informações detalhadas
-
-* **Nome**: Saymon Tavares
-* **Idade**: 24
-* **Living in**: Santa Catarina, Brazil
-* **Universidade**: Universidade do Extremo Sul Catarinense (UNESC) - Ciência da Computação
-
-## Stacks
 ![PHP](https://img.shields.io/badge/PHP-303540?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-303540?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-303540?style=for-the-badge&logo=codeigniter&logoColor=EF4223)
