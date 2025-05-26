@@ -7,7 +7,7 @@ Eu realmente não sei como você chegou aqui 😁, mas vou tentar mostrar um pou
 ## Informações detalhadas
 
 * **Nome**: Saymon Tavares
-* **Idade**: 24
+* **Idade**: 27
 * **Living in**: Santa Catarina, Brazil
 * **Universidade**: Universidade do Extremo Sul Catarinense (UNESC) - Ciência da Computação
 
