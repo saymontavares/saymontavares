@@ -20,10 +20,10 @@ Eu realmente não sei como você chegou aqui 😁, mas vou tentar mostrar um pou
 
 <div>
     <a href="https://github.com/saymontavares">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=saymontavares&count_private=true&show_icons=true&theme=react&include_all_commits=true&show_owner=true&line_height=20" />
+      <img align="center" src="https://github-readme-stats-iota-five-97.vercel.app/api?username=saymontavares&count_private=true&show_icons=true&theme=react&include_all_commits=true&show_owner=true&line_height=20" />
     </a>
     <a href="https://github.com/saymontavares">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymontavares&theme=react&layout=compact&card_width=295" />
+      <img align="center" src="https://github-readme-stats-iota-five-97.vercel.app/api/top-langs/?username=saymontavares&theme=react&layout=compact&card_width=295" />
     </a>
 </div>
 
