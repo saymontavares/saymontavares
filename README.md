@@ -59,6 +59,7 @@ Hey! I'm **Saymon**, a Full Stack Developer from Santa Catarina, Brazil 🇧🇷
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-00ADE4?style=for-the-badge&logo=harness&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
